@@ -1,0 +1,211 @@
+c:\users\samca\documents\visual studio 2017\Projects\chachasForm\chachasForm\bin\Debug\chachasForm.exe.config
+c:\users\samca\documents\visual studio 2017\Projects\chachasForm\chachasForm\bin\Debug\chachasForm.exe
+c:\users\samca\documents\visual studio 2017\Projects\chachasForm\chachasForm\bin\Debug\chachasForm.pdb
+c:\users\samca\documents\visual studio 2017\Projects\chachasForm\chachasForm\bin\Debug\GMap.NET.Core.dll
+c:\users\samca\documents\visual studio 2017\Projects\chachasForm\chachasForm\bin\Debug\GMap.NET.WindowsForms.dll
+c:\users\samca\documents\visual studio 2017\Projects\chachasForm\chachasForm\obj\Debug\chachasForm.csprojResolveAssemblyReference.cache
+c:\users\samca\documents\visual studio 2017\Projects\chachasForm\chachasForm\obj\Debug\chachasForm.Form1.resources
+c:\users\samca\documents\visual studio 2017\Projects\chachasForm\chachasForm\obj\Debug\chachasForm.Properties.Resources.resources
+c:\users\samca\documents\visual studio 2017\Projects\chachasForm\chachasForm\obj\Debug\chachasForm.csproj.GenerateResource.Cache
+c:\users\samca\documents\visual studio 2017\Projects\chachasForm\chachasForm\obj\Debug\chachasForm.exe
+c:\users\samca\documents\visual studio 2017\Projects\chachasForm\chachasForm\obj\Debug\chachasForm.pdb
+D:\Proyecto\chachasForm\chachasForm\bin\Debug\chachasForm.exe.config
+D:\Proyecto\chachasForm\chachasForm\bin\Debug\chachasForm.exe
+D:\Proyecto\chachasForm\chachasForm\bin\Debug\chachasForm.pdb
+D:\Proyecto\chachasForm\chachasForm\bin\Debug\GMap.NET.Core.dll
+D:\Proyecto\chachasForm\chachasForm\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Proyecto\chachasForm\chachasForm\obj\Debug\chachasForm.Form1.resources
+D:\Proyecto\chachasForm\chachasForm\obj\Debug\chachasForm.Properties.Resources.resources
+D:\Proyecto\chachasForm\chachasForm\obj\Debug\chachasForm.csproj.GenerateResource.cache
+D:\Proyecto\chachasForm\chachasForm\obj\Debug\chachasForm.csproj.CoreCompileInputs.cache
+D:\Proyecto\chachasForm\chachasForm\obj\Debug\chachasForm.csproj.CopyComplete
+D:\Proyecto\chachasForm\chachasForm\obj\Debug\chachasForm.exe
+D:\Proyecto\chachasForm\chachasForm\obj\Debug\chachasForm.pdb
+D:\Proyecto\chachasForm\chachasForm\obj\Debug\chachasForm.csproj.App.config
+D:\Proyecto\chachasForm\chachasForm\bin\Debug\FireSharp.dll
+D:\Proyecto\chachasForm\chachasForm\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Proyecto\chachasForm\chachasForm\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Proyecto\chachasForm\chachasForm\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Proyecto\chachasForm\chachasForm\bin\Debug\Newtonsoft.Json.dll
+D:\Proyecto\chachasForm\chachasForm\bin\Debug\System.Net.Http.Extensions.dll
+D:\Proyecto\chachasForm\chachasForm\bin\Debug\System.Net.Http.Primitives.dll
+D:\Proyecto\chachasForm\chachasForm\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Proyecto\chachasForm\chachasForm\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Proyecto\chachasForm\chachasForm\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Proyecto\chachasForm\chachasForm\bin\Debug\Newtonsoft.Json.xml
+D:\Proyecto\chachasForm\chachasForm\bin\Debug\System.Net.Http.Extensions.xml
+D:\Proyecto\chachasForm\chachasForm\bin\Debug\System.Net.Http.Primitives.xml
+D:\Proyecto\chachasForm\chachasForm\obj\Debug\chachasForm.csprojAssemblyReference.cache
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\grpc_csharp_ext.x86.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\grpc_csharp_ext.x64.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\libgrpc_csharp_ext.x86.so
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\libgrpc_csharp_ext.x64.so
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\libgrpc_csharp_ext.x86.dylib
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\libgrpc_csharp_ext.x64.dylib
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\chachasForm.exe.config
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\chachasForm.exe
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\chachasForm.pdb
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\netstandard.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.AppContext.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Collections.Concurrent.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Collections.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Collections.NonGeneric.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Collections.Specialized.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.ComponentModel.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Console.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Data.Common.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Diagnostics.Debug.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Diagnostics.Process.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Diagnostics.Tools.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Drawing.Primitives.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Dynamic.Runtime.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Globalization.Calendars.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Globalization.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Globalization.Extensions.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.IO.Compression.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.IO.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.IO.FileSystem.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.IO.Pipes.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Linq.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Linq.Expressions.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Linq.Parallel.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Linq.Queryable.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Net.Http.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Net.NameResolution.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Net.NetworkInformation.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Net.Ping.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Net.Primitives.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Net.Requests.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Net.Security.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Net.Sockets.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Net.WebSockets.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.ObjectModel.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Reflection.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Reflection.Extensions.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Reflection.Primitives.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Resources.Reader.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Resources.ResourceManager.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Resources.Writer.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Runtime.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Runtime.Extensions.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Runtime.Handles.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Runtime.InteropServices.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Runtime.Numerics.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Security.Claims.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Security.Principal.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Security.SecureString.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Text.Encoding.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Text.RegularExpressions.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Threading.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Threading.Overlapped.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Threading.Tasks.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Threading.Thread.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Threading.ThreadPool.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Threading.Timer.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.ValueTuple.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Xml.XDocument.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Xml.XmlDocument.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Xml.XPath.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\FireSharp.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\GMap.NET.Core.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.Api.CommonProtos.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.Api.Gax.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.Api.Gax.Grpc.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.Apis.Auth.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.Apis.Core.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.Apis.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.Cloud.Firestore.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.Cloud.Firestore.V1.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.LongRunning.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.Protobuf.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Grpc.Auth.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Grpc.Core.Api.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Grpc.Core.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Newtonsoft.Json.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Collections.Immutable.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Interactive.Async.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Net.Http.Extensions.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Net.Http.Primitives.dll
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.Api.CommonProtos.pdb
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.Api.CommonProtos.xml
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.Api.Gax.pdb
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.Api.Gax.xml
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.Api.Gax.Grpc.pdb
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.Api.Gax.Grpc.xml
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.Apis.pdb
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.Apis.xml
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.Apis.Auth.pdb
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.Apis.Auth.xml
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.Apis.Core.pdb
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.Apis.Core.xml
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.Cloud.Firestore.pdb
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.Cloud.Firestore.xml
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.Cloud.Firestore.V1.pdb
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.Cloud.Firestore.V1.xml
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.LongRunning.pdb
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.LongRunning.xml
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Google.Protobuf.xml
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Grpc.Auth.pdb
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Grpc.Auth.xml
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Grpc.Core.pdb
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Grpc.Core.xml
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Grpc.Core.Api.pdb
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Grpc.Core.Api.xml
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\Newtonsoft.Json.xml
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Collections.Immutable.xml
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Interactive.Async.xml
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Net.Http.Extensions.xml
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\bin\Debug\System.Net.Http.Primitives.xml
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\obj\Debug\chachasForm.csproj.App.config
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\obj\Debug\chachasForm.exe.config
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\obj\Debug\chachasForm.Form1.resources
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\obj\Debug\chachasForm.Properties.Resources.resources
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\obj\Debug\chachasForm.csproj.GenerateResource.cache
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\obj\Debug\chachasForm.csproj.CoreCompileInputs.cache
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\obj\Debug\chachasForm.csproj.CopyComplete
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\obj\Debug\chachasForm.exe
+D:\Tomas\Documents\UPB\Proyecto de Ingenieria de Software\GitDir\ProyectoFinal\chachasForm\chachasForm\obj\Debug\chachasForm.pdb
